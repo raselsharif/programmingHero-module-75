@@ -37,7 +37,7 @@ const pages = [
     pathname: "/about",
   },
 ];
-const settings = ["Profile", "Account", "Dashboard", "Logout"];
+const settings = ["Profile", "Account", "Dashboard", "Log Out"];
 
 const NavBar = () => {
   const [anchorElNav, setAnchorElNav] = React.useState(null);
